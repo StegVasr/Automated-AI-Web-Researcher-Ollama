@@ -25,6 +25,7 @@ Click the image above to watch the demonstration of My Project.
 
 The key distinction is that this isn't just a chatbot - it's an automated research assistant that methodically investigates topics and maintains a documented research trail all from a single question or topic of your choosing, and depending on your system and model can do over a hundred searches and content retrievals in a relatively short amount of time, you can leave it running and come back to a full text document with over a hundred pieces of content from relevant websites, and then have it summarise the findings and then even ask it questions about what it found.
 
+
 ## Features
 - Automated research planning with prioritized focus areas
 - Multi-provider search system with automatic fallback
@@ -64,6 +65,8 @@ The system supports multiple search providers with automatic fallback:
    - Privacy-focused results
    - No API key required
    - Reliable fallback option
+
+## Important
 
 ## Installation
 
@@ -193,3 +196,5 @@ Please enjoy! and feel free to submit any suggestions for improvements, so that 
 
 ## Disclaimer
 This project is for educational purposes only. Ensure you comply with the terms of service of all APIs and services used.
+
+
